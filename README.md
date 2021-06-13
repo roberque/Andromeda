@@ -1,4 +1,4 @@
 # Andromeda
- Primeiro repositorio  versionado
+ Primeiro repositório  versionado
 
- repositorio para criaçao de site de tecnologia.
+ Repositório para criação de site de tecnologia.
