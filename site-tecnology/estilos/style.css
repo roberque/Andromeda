@@ -7,13 +7,6 @@
             background-color: rgb(127, 182, 255);
         }
         
-        header {
-            width: 100px;
-            background-color: #4287f5;
-            display: flex;
-            justify-content: space-between;
-        }
-        
         main {
             background-color: white;
             width: bolder;
